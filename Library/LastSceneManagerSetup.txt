@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HolySheepYa2 - Scene Rendu G Levieux.unity
+  isLoaded: 1
+  isActive: 1

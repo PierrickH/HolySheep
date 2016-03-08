@@ -1,0 +1,20 @@
+HOLY SHEEP
+Note d'intention
+
+
+Dans ce petit projet, le joueur incarne un mouton coiffé d'une tiare pontificale.
+Il doit amener un petit mouton perdu face à une affiche de son leader et berger.
+
+A l'origine, mon intention était de faire une parodie d'advergame.
+Cet advergame aurait été un moyen de faire découvrir à un jeune public le clip Cirice du groupe Ghost.
+Cette intention était toute ironique, au vu de l'imagerie du groupe et du contenu du clip.
+
+Le (jeune) joueur était amené à découvrir une île paisible, aux graphismes très doux.
+Il devait ensuite pousser 3 petits moutons jusqu'à un batôn pastoral fiché en terre,
+face à une petite scène, surmontée par un écran géant.
+Une fois les 3 petits moutons dans la trigger box, le trigger s'activait.
+La nuit tombait alors, un message de succès s'affichait, et le clip de Cirice était lancé.
+
+Malheureusement, et entre autres choses, je ne suis pas parvenu à créer une movie texture fonctionnelle.
+C'est pourquoi je me suis contenté d'afficher un message de succès.
+Je pourrai m'y atteler à nouveau et étoffer un peu ce projet dans les semaines à venir :)
